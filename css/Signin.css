@@ -1,0 +1,18 @@
+#dex {
+    background-color: rgb(221, 92, 92);
+}
+
+#reg {
+    background-color: bisque;
+}
+
+#login {
+    background-color: cadetblue;
+}
+
+.regtable {
+    outline: solid;
+    margin: 50px;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
